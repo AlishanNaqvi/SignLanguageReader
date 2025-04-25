@@ -6,7 +6,7 @@ The project offers two modes:
 - **Detection Mode**: Recognizes and displays signs live through the webcam.
 - **Game Mode**: Challenges users to match random signs with scoring, lives, and animated feedback.
 
-A demonstration of the project can be found inside the `demo/` folder.
+A demonstration of the project can be found inside the `demonstration/` folder.
 
 ---
 
